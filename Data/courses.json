@@ -1,0 +1,51 @@
+[
+  {
+    "id":1,
+  "title":"Data Science",
+  "description":"Study programs in data science typically focus on big data analytics, data visualization, statistics, and predictive analytics. The curriculum is designed for individuals pursuing technical job positions, such as data scientists, data analysts, business analysts, and machine learning engineers. Usually, no prior coding experience is necessary for this course. If you have a bachelor level degree and a knack for numbers, you can enroll in a postgraduate level data science program. Many online options are also available, which provide accredited master degrees and diplomas in addition to placement support.",
+  "category":"Data Science",
+  "image":"https://edunewsnetwork.files.wordpress.com/2021/07/data-science.jpg?w=1024"
+  },
+  {
+    "id":2,
+    "title":"Artificial Intelligence",
+    "description":"rtificial Intelligence (AI) and Machine Learning (ML) are the exciting technologies of the 21st century. AI and ML certifications can help boost the careers of IT professionals who have a background in mathematical or statistical fields. Such programs cover various programming languages, tools, and libraries to equip students with the required competencies. Examples of the technologies taught include Python, MySQL, AWS, Docker, Kubernetes, Keras, REST-API, etc. Moreover, learning opportunities would expand when the syllabus is delivered via videos and real-life industry projects. ",
+    "category":"Artificial Intelligence",
+    "image":"https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg"
+    },
+    {
+      "id":3,
+      "title":"Cloud Computing",
+  
+      "description":"Cloud computing is one of the top IT fields that is experiencing an emerging trend in 2022. As organizations around the world go after dynamic and scalable applications, the demand for cloud services is only going to rise.While making the shift, companies encounter many technical challenges. So, having qualified people with domain expertise would be necessary. It is already a top IT job globally. Software developers can go for specialized programs in cloud computing to learn.",
+      "category":"Cloud Computing",
+      "image":"https://www.esds.co.in/blog/wp-content/uploads/2018/07/CLoud-COmputing.jpg"
+     
+      },
+    {
+      "id":4,
+      "title":"Full-stack development",
+    
+      "description":"Full-stack development is concerned with both front-end and back-end technologies. A typical full-stack development course would familiarize you with programming languages and tools like Spring, Java, Typescript, Oracle, Git, Hibernate, React, AWS, Selenium WebDriver, and so on. If you are searching for industry-oriented education programs that prepare you to work in a similar domain, upGrad’s PG Diploma in Software Development would be an excellent choice. The specialized learning track in full-stack development would teach you how to create robust and scalable applications, replete with back-end APIs and an interactive web UIs.",
+      "image":"https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0NTEwODM4NTk2NzczODc4/full-stack-web-development-are-you-a-game-for-this.webp"
+      
+      },
+    {
+      "id":5,
+      "title":"Cybersecurity",
+    
+      "description":"In recent years, the instances of data breaches and cyber attacks faced by companies have increased. In the wake of rising cyber crimes, the demand for security experts has also picked up. Most software development courses provide a specialized learning path for those interested in cyber security careers. The key skills imparted in an online cybersecurity training course include application security, network security, and cryptography. The programming languages like Java, Python, AWS, Git, etc. are usually imparted in many cybersecurity training courses.",
+      "category":"Cybersecurity",
+      "image":"https://www.springboard.com/blog/wp-content/uploads/2022/02/is-cybersecurity-hard-768x380.jpg"
+    
+      },
+    {
+      "id":6,
+      "title":"Digital Marketing",
+  
+      "description":"Digital marketing is an exciting subject for professionals like brand managers, sales personnel, entrepreneurs, and marketers. With increasing internet penetration and online activity, the scope of traditional marketing has also expanded. Digital marketing encompasses topics like Search Engine Optimization (SEO), content marketing, social media, and marketing analytics.",
+      "category":"Digital Marketing",
+      "image":"https://s3-ap-south-1.amazonaws.com/ricedigitals3bucket/AUPortalContent/2021/05/22121232/Untitled-design-391.png"
+      
+      }
+]
