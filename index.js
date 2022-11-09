@@ -23,3 +23,5 @@ app.get("/coursedetails/:id", (req, res) => {
 app.listen(Port, () => {
   console.log("api is running", Port);
 });
+
+module.exports = app;
